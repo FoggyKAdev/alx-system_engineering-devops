@@ -1,1 +1,2 @@
-#!/bin/bacd $HOMEE
+#!/bin/bash
+echo $HOME
